@@ -1,6 +1,5 @@
 # Exercise 1
-Using the text-edit of your choice (e.g., Atom), create a new file called `README.md`. Alternatively, you may clone this repository and edit this file.
 
-In your `README.md` document, put your favorite quote in a block quote, and provide a link to a website that provides additional information about the quote.
+> "Technology is just a tool. In terms of getting the kids working together and motivating them, the teacher is the most important. Bill Gates"
+[source](https://www.brainyquote.com/quotes/bill_gates_390682)
 
-Note that you can preview this Markdown in Atom to make sure it works correctly.
